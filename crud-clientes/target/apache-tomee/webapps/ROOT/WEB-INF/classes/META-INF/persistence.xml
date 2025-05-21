@@ -1,0 +1,13 @@
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence" version="2.2">
+  <persistence-unit name="clientesPU" transaction-type="JTA">
+    <jta-data-source>java:comp/DefaultDataSource</jta-data-source>
+    <class>com.example.clientes.model.Cliente</class>
+    <properties>
+      <!-- Gera o schema automaticamente -->
+      <property name="javax.persistence.schema-generation.database.action" value="drop-and-create" />
+
+      <!-- Log detalhado (opcional, para debug) -->
+      <property name="openjpa.Log" value="SQL=TRACE"/>
+    </properties>
+  </persistence-unit>
+</persistence>

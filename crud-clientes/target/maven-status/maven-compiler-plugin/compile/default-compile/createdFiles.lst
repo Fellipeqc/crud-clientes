@@ -1,0 +1,4 @@
+com\example\clientes\model\Cliente.class
+com\example\clientes\bean\ClienteBean.class
+com\example\clientes\repository\ClienteRepository.class
+com\example\clientes\service\ClienteService.class

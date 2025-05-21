@@ -1,0 +1,145 @@
+21-May-2025 20:32:51.396 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Server version name:   Apache Tomcat/9.0.63
+21-May-2025 20:32:51.396 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Server built:          May 11 2022 07:52:11 UTC
+21-May-2025 20:32:51.396 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Server version number: 9.0.63.0
+21-May-2025 20:32:51.396 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke OS Name:               Windows 10
+21-May-2025 20:32:51.396 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke OS Version:            10.0
+21-May-2025 20:32:51.396 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Architecture:          amd64
+21-May-2025 20:32:51.396 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Java Home:             C:\Program Files\Java\jdk-17
+21-May-2025 20:32:51.397 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke JVM Version:           17.0.6+9-LTS-190
+21-May-2025 20:32:51.397 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke JVM Vendor:            Oracle Corporation
+21-May-2025 20:32:51.397 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke CATALINA_BASE:         C:\Users\User\Desktop\Nova pasta\crud-clientes\target\apache-tomee
+21-May-2025 20:32:51.397 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke CATALINA_HOME:         C:\Users\User\Desktop\Nova pasta\crud-clientes\target\apache-tomee
+21-May-2025 20:32:51.404 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Command line argument: -XX:+HeapDumpOnOutOfMemoryError
+21-May-2025 20:32:51.404 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dorg.apache.catalina.STRICT_SERVLET_COMPLIANCE=false
+21-May-2025 20:32:51.404 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dopenejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager
+21-May-2025 20:32:51.404 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dtomee.remote.support=true
+21-May-2025 20:32:51.404 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dopenejb.system.apps=false
+21-May-2025 20:32:51.404 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dtomee.jsp-development=true
+21-May-2025 20:32:51.404 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.config.file=C:\Users\User\Desktop\Nova pasta\crud-clientes\target\apache-tomee\conf\logging.properties
+21-May-2025 20:32:51.404 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -javaagent:C:\Users\User\Desktop\Nova pasta\crud-clientes\target\apache-tomee\lib\openejb-javaagent.jar
+21-May-2025 20:32:51.404 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-May-2025 20:32:51.405 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.io.tmpdir=C:\Users\User\Desktop\Nova pasta\crud-clientes\target\apache-tomee\temp
+21-May-2025 20:32:51.405 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.base=C:\Users\User\Desktop\Nova pasta\crud-clientes\target\apache-tomee
+21-May-2025 20:32:51.405 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.home=C:\Users\User\Desktop\Nova pasta\crud-clientes\target\apache-tomee
+21-May-2025 20:32:51.405 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.ext.dirs=C:\Users\User\Desktop\Nova pasta\crud-clientes\target\apache-tomee\lib
+21-May-2025 20:32:51.405 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dorg.apache.tomcat.util.http.ServerCookie.ALLOW_HTTP_SEPARATORS_IN_V0=true
+21-May-2025 20:32:51.405 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -ea
+21-May-2025 20:32:51.412 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Process Lasso\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\User\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-17\bin;C:\maven\bin;;.]
+21-May-2025 20:32:51.625 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["http-nio-8080"]
+21-May-2025 20:32:51.809 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'tomee.remote.support=true'
+21-May-2025 20:32:51.817 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+21-May-2025 20:32:51.874 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+21-May-2025 20:32:51.874 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> OpenEJB http://tomee.apache.org/
+21-May-2025 20:32:51.874 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Startup: Wed May 21 20:32:51 BRT 2025
+21-May-2025 20:32:51.874 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Copyright 1999-2021 (C) Apache TomEE Project, All Rights Reserved.
+21-May-2025 20:32:51.874 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Version: 8.0.12
+21-May-2025 20:32:51.874 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Build date: 20220607
+21-May-2025 20:32:51.875 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Build time: 09:58
+21-May-2025 20:32:51.875 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+21-May-2025 20:32:51.875 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.home = C:\Users\User\Desktop\Nova pasta\crud-clientes\target\apache-tomee
+21-May-2025 20:32:51.875 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.base = C:\Users\User\Desktop\Nova pasta\crud-clientes\target\apache-tomee
+21-May-2025 20:32:51.876 INFO [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@528c868
+21-May-2025 20:32:51.878 INFO [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Succeeded in installing singleton service
+21-May-2025 20:32:51.900 INFO [main] org.apache.openejb.config.ConfigurationFactory.init TomEE configuration file is 'C:\Users\User\Desktop\Nova pasta\crud-clientes\target\apache-tomee\conf\tomee.xml'
+21-May-2025 20:32:51.924 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+21-May-2025 20:32:51.925 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+21-May-2025 20:32:51.926 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.system.apps=false'
+21-May-2025 20:32:51.926 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.deployments.classpath=false'
+21-May-2025 20:32:51.928 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating TransactionManager(id=Default Transaction Manager)
+21-May-2025 20:32:51.964 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating SecurityService(id=Tomcat Security Service)
+21-May-2025 20:32:52.022 INFO [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf-rs)
+21-May-2025 20:32:52.138 INFO [main] org.apache.openejb.server.SimpleServiceManager.start   ** Bound Services **
+21-May-2025 20:32:52.138 INFO [main] org.apache.openejb.server.SimpleServiceManager.printRow   NAME                 IP              PORT  
+21-May-2025 20:32:52.138 INFO [main] org.apache.openejb.server.SimpleServiceManager.start -------
+21-May-2025 20:32:52.138 INFO [main] org.apache.openejb.server.SimpleServiceManager.start Ready!
+21-May-2025 20:32:52.138 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Server initialization in [877] milliseconds
+21-May-2025 20:32:52.165 INFO [main] org.apache.tomee.catalina.OpenEJBNamingContextListener.bindResource Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+21-May-2025 20:32:52.165 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=UserDatabase)
+21-May-2025 20:32:52.174 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Starting service [Catalina]
+21-May-2025 20:32:52.175 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Starting Servlet engine: [Apache Tomcat/9.0.63]
+21-May-2025 20:32:52.189 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Deploying web application archive [C:\Users\User\Desktop\Nova pasta\crud-clientes\target\apache-tomee\webapps\ROOT.war]
+21-May-2025 20:32:52.194 INFO [main] org.apache.tomee.catalina.TomcatWebAppBuilder.init ------------------------- localhost -> /
+21-May-2025 20:32:52.196 INFO [main] org.apache.openejb.util.JarExtractor.extract Extracting jar: C:\Users\User\Desktop\Nova pasta\crud-clientes\target\apache-tomee\webapps\ROOT.war
+21-May-2025 20:32:52.444 INFO [main] org.apache.openejb.util.JarExtractor.extract Extracted path: C:\Users\User\Desktop\Nova pasta\crud-clientes\target\apache-tomee\webapps\ROOT
+21-May-2025 20:32:52.445 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager'
+21-May-2025 20:32:52.873 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureApplication Configuring enterprise application: C:\Users\User\Desktop\Nova pasta\crud-clientes\target\apache-tomee\webapps\ROOT
+21-May-2025 20:32:53.560 INFO [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb ClienteService: EjbDeployment(deployment-id=ClienteService)
+21-May-2025 20:32:53.560 INFO [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb ClienteRepository: EjbDeployment(deployment-id=ClienteRepository)
+21-May-2025 20:32:53.562 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Stateless Container, type=Container, provider-id=Default Stateless Container)
+21-May-2025 20:32:53.562 INFO [main] org.apache.openejb.config.AutoConfig.createContainer Auto-creating a container for bean ClienteService: Container(type=STATELESS, id=Default Stateless Container)
+21-May-2025 20:32:53.562 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Container(id=Default Stateless Container)
+21-May-2025 20:32:53.568 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Managed Container, type=Container, provider-id=Default Managed Container)
+21-May-2025 20:32:53.568 INFO [main] org.apache.openejb.config.AutoConfig.createContainer Auto-creating a container for bean .Comp321080009: Container(type=MANAGED, id=Default Managed Container)
+21-May-2025 20:32:53.568 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Container(id=Default Managed Container)
+21-May-2025 20:32:53.572 INFO [main] org.apache.openejb.core.managed.SimplePassivater.init Using directory C:\Users\User\Desktop\Nova pasta\crud-clientes\target\apache-tomee\temp for stateful session passivation
+21-May-2025 20:32:53.577 INFO [main] org.apache.openejb.config.AutoConfig.deploy Configuring PersistenceUnit(name=clientesPU)
+21-May-2025 20:32:53.578 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default JDBC Database, type=Resource, provider-id=Default JDBC Database)
+21-May-2025 20:32:53.578 INFO [main] org.apache.openejb.config.AutoConfig.logAutoCreateResource Auto-creating a Resource with id 'Default JDBC Database' of type 'DataSource' for 'clientesPU'.
+21-May-2025 20:32:53.578 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=Default JDBC Database)
+21-May-2025 20:32:53.756 INFO [main] org.hsqldb.persist.Logger.logInfoEvent Checkpoint start
+21-May-2025 20:32:53.756 INFO [main] org.hsqldb.persist.Logger.logInfoEvent checkpointClose start
+21-May-2025 20:32:53.757 INFO [main] org.hsqldb.persist.Logger.logInfoEvent checkpointClose synched
+21-May-2025 20:32:53.759 INFO [main] org.hsqldb.persist.Logger.logInfoEvent checkpointClose script done
+21-May-2025 20:32:53.768 INFO [main] org.hsqldb.persist.Logger.logInfoEvent checkpointClose end
+21-May-2025 20:32:53.768 INFO [main] org.hsqldb.persist.Logger.logInfoEvent Checkpoint end - txts: 1
+21-May-2025 20:32:53.791 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Unmanaged JDBC Database, type=Resource, provider-id=Default Unmanaged JDBC Database)
+21-May-2025 20:32:53.791 INFO [main] org.apache.openejb.config.AutoConfig.logAutoCreateResource Auto-creating a Resource with id 'Default Unmanaged JDBC Database' of type 'DataSource' for 'clientesPU'.
+21-May-2025 20:32:53.791 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=Default Unmanaged JDBC Database)
+21-May-2025 20:32:53.808 INFO [main] org.apache.openejb.config.AutoConfig.setJtaDataSource Adjusting PersistenceUnit clientesPU <jta-data-source> to Resource ID 'Default JDBC Database' from 'comp/DefaultDataSource'
+21-May-2025 20:32:53.808 INFO [main] org.apache.openejb.config.AutoConfig.setNonJtaDataSource Adjusting PersistenceUnit clientesPU <non-jta-data-source> to Resource ID 'Default Unmanaged JDBC Database' from 'null'
+21-May-2025 20:32:53.826 INFO [main] org.apache.openejb.config.AppInfoBuilder.build Enterprise application "C:\Users\User\Desktop\Nova pasta\crud-clientes\target\apache-tomee\webapps\ROOT" loaded.
+21-May-2025 20:32:53.851 INFO [main] org.apache.openejb.assembler.classic.Assembler.createApplication Assembling app: C:\Users\User\Desktop\Nova pasta\crud-clientes\target\apache-tomee\webapps\ROOT
+21-May-2025 20:32:54.066 INFO [main] org.apache.openejb.assembler.classic.ReloadableEntityManagerFactory.createDelegate PersistenceUnit(name=clientesPU, provider=org.apache.openjpa.persistence.PersistenceProviderImpl) - provider time 201ms
+21-May-2025 20:32:54.203 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=ClienteServiceLocalBean) --> Ejb(deployment-id=ClienteService)
+21-May-2025 20:32:54.203 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/ClienteService!com.example.clientes.service.ClienteService) --> Ejb(deployment-id=ClienteService)
+21-May-2025 20:32:54.203 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/ClienteService) --> Ejb(deployment-id=ClienteService)
+21-May-2025 20:32:54.204 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=ClienteRepositoryLocalBean) --> Ejb(deployment-id=ClienteRepository)
+21-May-2025 20:32:54.204 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/ClienteRepository!com.example.clientes.repository.ClienteRepository) --> Ejb(deployment-id=ClienteRepository)
+21-May-2025 20:32:54.204 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/ClienteRepository) --> Ejb(deployment-id=ClienteRepository)
+21-May-2025 20:32:54.219 INFO [main] org.apache.openejb.cdi.CdiBuilder.initSingleton Existing thread singleton service in SystemInstance(): org.apache.openejb.cdi.ThreadSingletonServiceImpl@528c868
+21-May-2025 20:32:54.269 INFO [main] org.apache.openejb.cdi.ManagedSecurityService.<init> Some Principal APIs could not be loaded: org.eclipse.microprofile.jwt.JsonWebToken out of org.eclipse.microprofile.jwt.JsonWebToken not found
+21-May-2025 20:32:54.289 INFO [main] org.apache.openejb.cdi.OpenEJBLifecycle.startApplication OpenWebBeans Container is starting...
+21-May-2025 20:32:54.294 INFO [main] org.apache.webbeans.plugins.PluginLoader.startUp Adding OpenWebBeansPlugin : [CdiPlugin]
+21-May-2025 20:32:54.507 INFO [main] org.apache.webbeans.config.BeansDeployer.validateInjectionPoints All injection points were validated successfully.
+21-May-2025 20:32:54.516 INFO [main] org.apache.openejb.cdi.OpenEJBLifecycle.startApplication OpenWebBeans Container has started, it took 227 ms.
+21-May-2025 20:32:54.517 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Created Ejb(deployment-id=ClienteService, ejb-name=ClienteService, container=Default Stateless Container)
+21-May-2025 20:32:54.517 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Created Ejb(deployment-id=ClienteRepository, ejb-name=ClienteRepository, container=Default Stateless Container)
+21-May-2025 20:32:54.528 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Started Ejb(deployment-id=ClienteService, ejb-name=ClienteService, container=Default Stateless Container)
+21-May-2025 20:32:54.531 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Started Ejb(deployment-id=ClienteRepository, ejb-name=ClienteRepository, container=Default Stateless Container)
+21-May-2025 20:32:54.533 INFO [main] org.apache.openejb.assembler.classic.Assembler.createApplication Deployed Application(path=C:\Users\User\Desktop\Nova pasta\crud-clientes\target\apache-tomee\webapps\ROOT)
+21-May-2025 20:32:55.387 INFO [main] org.apache.myfaces.ee.MyFacesContainerInitializer.onStartup Using org.apache.myfaces.ee.MyFacesContainerInitializer
+21-May-2025 20:32:55.437 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-May-2025 20:32:55.447 INFO [main] org.apache.tomee.myfaces.TomEEMyFacesContainerInitializer.addListener Installing <listener>org.apache.myfaces.webapp.StartupServletContextListener</listener>
+21-May-2025 20:32:55.513 INFO [main] org.apache.myfaces.config.DefaultFacesConfigurationProvider.getStandardFacesConfig Reading standard config META-INF/standard-faces-config.xml
+21-May-2025 20:32:55.763 INFO [main] org.apache.myfaces.config.DefaultFacesConfigurationProvider.getClassloaderFacesConfig Reading config : jar:file:/C:/Users/User/Desktop/Nova%20pasta/crud-clientes/target/apache-tomee/lib/openwebbeans-jsf-2.0.27.jar!/META-INF/faces-config.xml
+21-May-2025 20:32:55.768 INFO [main] org.apache.myfaces.config.DefaultFacesConfigurationProvider.getClassloaderFacesConfig Reading config : jar:file:/C:/Users/User/Desktop/Nova%20pasta/crud-clientes/target/apache-tomee/webapps/ROOT/WEB-INF/lib/primefaces-8.0.jar!/META-INF/faces-config.xml
+21-May-2025 20:32:55.968 INFO [main] org.apache.myfaces.config.DefaultFacesConfigurationProvider.getClassloaderFacesConfig Reading config : jar:file:/C:/Users/User/Desktop/Nova%20pasta/crud-clientes/target/apache-tomee/lib/openwebbeans-el22-2.0.27.jar!/META-INF/faces-config.xml
+21-May-2025 20:32:56.111 INFO [main] org.apache.myfaces.config.LogMetaInfUtils.logArtifact Artifact 'myfaces-api' was found in version '2.3.9' from path 'file:/C:/Users/User/Desktop/Nova%20pasta/crud-clientes/target/apache-tomee/lib/myfaces-api-2.3.9.jar'
+21-May-2025 20:32:56.111 INFO [main] org.apache.myfaces.config.LogMetaInfUtils.logArtifact Artifact 'myfaces-impl' was found in version '2.3.9' from path 'file:/C:/Users/User/Desktop/Nova%20pasta/crud-clientes/target/apache-tomee/lib/myfaces-impl-2.3.9.jar'
+21-May-2025 20:32:56.131 INFO [main] org.apache.myfaces.util.ExternalSpecifications.lambda$static$1 MyFaces Core CDI support enabled
+21-May-2025 20:32:56.133 INFO [main] org.apache.myfaces.spi.impl.DefaultInjectionProviderFactory.getInjectionProvider Using InjectionProvider org.apache.myfaces.spi.impl.CDIAnnotationDelegateInjectionProvider
+21-May-2025 20:32:56.224 INFO [main] org.apache.myfaces.util.ExternalSpecifications.lambda$static$0 MyFaces Core Bean Validation support enabled
+21-May-2025 20:32:56.290 INFO [main] org.apache.myfaces.config.FacesConfigurator.handleSerialFactory Serialization provider : class org.apache.myfaces.shared_impl.util.serial.DefaultSerialFactory
+21-May-2025 20:32:56.298 INFO [main] org.apache.myfaces.config.annotation.DefaultLifecycleProviderFactory.getLifecycleProvider Using LifecycleProvider org.apache.myfaces.config.annotation.Tomcat7AnnotationLifecycleProvider
+21-May-2025 20:32:56.333 INFO [main] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 8.0
+21-May-2025 20:32:56.336 INFO [main] org.apache.myfaces.webapp.AbstractFacesInitializer.initFaces ServletContext initialized.
+21-May-2025 20:32:56.338 INFO [main] org.apache.myfaces.view.facelets.ViewPoolProcessor.initialize org.apache.myfaces.CACHE_EL_EXPRESSIONS web config parameter is set to "noCache". To enable view pooling this param must be set to "alwaysRecompile". View Pooling disabled.
+21-May-2025 20:32:56.348 INFO [main] org.apache.myfaces.webapp.StartupServletContextListener.contextInitialized MyFaces Core has started, it took [898] ms.
+21-May-2025 20:32:56.411 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Deployment of web application archive [C:\Users\User\Desktop\Nova pasta\crud-clientes\target\apache-tomee\webapps\ROOT.war] has finished in [4.222] ms
+21-May-2025 20:32:56.425 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler ["http-nio-8080"]
+21-May-2025 20:32:56.435 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Server startup in [4297] milliseconds
+21-May-2025 20:33:01.076 INFO [http-nio-8080-exec-2] org.apache.myfaces.el.unified.ResolverBuilderBase.sortELResolvers Chain of EL resolvers for JSP sorted with: org.apache.myfaces.el.unified.OpenWebBeansELResolverComparator@776bc01a and the result order is [org.apache.myfaces.el.unified.resolver.implicitobject.ImplicitObjectResolver@494a52b4, org.apache.myfaces.el.FlashELResolver@4bace6c9, org.apache.myfaces.el.unified.resolver.ManagedBeanResolver@6d450236, org.apache.myfaces.el.unified.resolver.ResourceBundleResolver@44077494, org.apache.myfaces.el.unified.resolver.ResourceResolver@5f435152, org.apache.myfaces.el.convert.VariableResolverToELResolver@73f57edd, org.apache.myfaces.el.convert.PropertyResolverToELResolver@36e48627, org.apache.webbeans.el22.WebBeansELResolver@4938e7bb]
+21-May-2025 20:33:01.170 INFO [http-nio-8080-exec-2] org.apache.myfaces.el.unified.ResolverBuilderBase.sortELResolvers Chain of EL resolvers for Faces sorted with: org.apache.myfaces.el.unified.OpenWebBeansELResolverComparator@776bc01a and the result order is [org.apache.myfaces.el.unified.resolver.implicitobject.ImplicitObjectResolver@c34f60f, org.apache.myfaces.el.unified.resolver.CompositeComponentELResolver@546f62c2, org.apache.myfaces.el.convert.VariableResolverToELResolver@462803d6, org.apache.myfaces.el.convert.PropertyResolverToELResolver@48232197, org.apache.myfaces.el.FlashELResolver@630c3212, org.apache.myfaces.el.unified.resolver.ManagedBeanResolver@4c5a35c3, org.apache.myfaces.el.unified.resolver.ResourceResolver@4aeab92d, javax.el.ResourceBundleELResolver@1b14167e, org.apache.myfaces.el.unified.resolver.ResourceBundleResolver@198a2bac, org.apache.myfaces.el.unified.resolver.ImportConstantsELResolver@4e3f173, org.apache.el.stream.StreamELResolverImpl@1b5f1313, javax.el.StaticFieldELResolver@204351e0, javax.el.MapELResolver@68dcd90f, javax.el.ListELResolver@732fc50e, javax.el.ArrayELResolver@100b87f3, javax.el.BeanELResolver@2a7d0843, org.apache.webbeans.el22.WebBeansELResolver@4938e7bb]
+21-May-2025 20:33:01.485 INFO [http-nio-8080-exec-2] org.apache.myfaces.util.ExternalSpecifications.lambda$static$3 MyFaces Core Servlet 4.0 support enabled
+21-May-2025 20:35:51.417 INFO [Thread-32] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Pausing ProtocolHandler ["http-nio-8080"]
+21-May-2025 20:35:51.418 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+21-May-2025 20:35:51.423 INFO [Thread-32] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Stopping service [Catalina]
+21-May-2025 20:35:51.449 INFO [Thread-32] org.apache.openejb.assembler.classic.Assembler.destroyApplication Undeploying app: C:\Users\User\Desktop\Nova pasta\crud-clientes\target\apache-tomee\webapps\ROOT
+21-May-2025 20:35:51.498 WARNING [Thread-32] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches When running on Java 9 or later you need to add "--add-opens=java.base/java.io=null" to the JVM command line arguments to enable ObjectStream cache memory leak protection. Alternatively, you can suppress this warning by disabling ObjectStream class cache memory leak protection.
+21-May-2025 20:35:51.498 WARNING [Thread-32] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalsForLeaks When running on Java 9 or later you need to add "--add-opens=java.base/java.lang=null" to the JVM command line arguments to enable ThreadLocal memory leak detection. Alternatively, you can suppress this warning by disabling ThreadLocal memory leak detection.
+21-May-2025 20:35:51.499 WARNING [Thread-32] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesRmiTargets When running on Java 9 or later you need to add "--add-opens=java.rmi/sun.rmi.transport=null" to the JVM command line arguments to enable RMI Target memory leak detection. Alternatively, you can suppress this warning by disabling RMI Target memory leak detection.
+21-May-2025 20:35:51.499 INFO [Thread-32] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Stopping ProtocolHandler ["http-nio-8080"]
+21-May-2025 20:35:51.508 INFO [Thread-32] org.apache.openejb.server.SimpleServiceManager.stop Stopping server services
+21-May-2025 20:35:51.513 INFO [Thread-32] org.apache.openejb.assembler.classic.Assembler.doResourceDestruction Closing DataSource: Default JDBC Database
+21-May-2025 20:35:51.514 INFO [Thread-32] org.apache.openejb.assembler.classic.Assembler.doResourceDestruction Closing DataSource: Default Unmanaged JDBC Database
+21-May-2025 20:35:51.520 INFO [Thread-32] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Destroying ProtocolHandler ["http-nio-8080"]
